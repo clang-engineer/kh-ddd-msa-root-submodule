@@ -1,3 +1,6 @@
 [submodule "gateway"]
 	path = gateway
 	url = git@github.com:hhkbdev/jh-gateway.git
+[submodule "book"]
+	path = book
+	url = git@github.com:hhkbdev/jh-msa-book.git
