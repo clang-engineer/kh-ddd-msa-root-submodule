@@ -4,3 +4,6 @@
 [submodule "book"]
 	path = book
 	url = git@github.com:hhkbdev/jh-msa-book.git
+[submodule "rental"]
+	path = rental
+	url = https://github.com/hhkbdev/kh-msa-rental.git
