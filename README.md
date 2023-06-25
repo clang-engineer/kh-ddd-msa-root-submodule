@@ -16,7 +16,14 @@ $ git submodule add git@github.com:hhkbdev/jh-gateway.git gateway
 ## book service
 
 ```
-$ git submodule add git@github.com:hhkbdev/jh-gateway.git gateway
+$ git submodule add git@github.com:hhkbdev/jh-book.git book
+```
+
+
+## rental service
+
+```
+$ git submodule add git@github.com:hhkbdev/kh-rental.git rental
 ```
 
 
