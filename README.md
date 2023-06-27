@@ -1,13 +1,13 @@
 # submodule project를 모두 내려받고 싶다면? 
 
 ```
-$ git clone --recurse-submodules git@github.com:hhkbdev/jh-gateway.git
+$ git clone --recurse-submodules git@github.com:hhkbdev/jh-root-submodule.git
 ```
 
 
 # submodule project을 구성한 과정
  
-## gateway 
+## gateway service
 
 ```
 $ git submodule add git@github.com:hhkbdev/jh-gateway.git gateway
