@@ -18,10 +18,10 @@ git submodule add https://github.com/clang-engineer/kh-gateway.git gateway
 git submodule add https://github.com/clang-engineer/kh-book.git book
 ```
 
-## book catalog service
+## book-catalog service
 
 ```sh
-git submodule add https://github.com/clang-engineer/kh-bookCatalog.git book
+git submodule add https://github.com/clang-engineer/kh-book-catalog.git book
 ```
 
 
