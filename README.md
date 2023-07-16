@@ -1,7 +1,7 @@
 # submodule project를 모두 내려받고 싶다면? 
 
 ```sh
-git clone --recurse-submodules https://github.com/hhkbdev/jh-root-submodule.git
+git clone --recurse-submodules https://github.com/clang-engineer/kh-ddd-msa-root-submodule.git
 ```
 
 # submodule project을 구성한 과정
@@ -9,20 +9,26 @@ git clone --recurse-submodules https://github.com/hhkbdev/jh-root-submodule.git
 ## gateway service
 
 ```sh
-git submodule add https://github.com/hhkbdev/jh-gateway.git gateway
+git submodule add https://github.com/clang-engineer/kh-gateway.git gateway
 ```
 
 ## book service
 
 ```sh
-git submodule add https://github.com/hhkbdev/jh-book.git book
+git submodule add https://github.com/clang-engineer/kh-book.git book
+```
+
+## book catalog service
+
+```sh
+git submodule add https://github.com/clang-engineer/kh-bookCatalog.git book
 ```
 
 
 ## rental service
 
 ```sh
-git submodule add https://github.com/hhkbdev/kh-rental.git rental
+git submodule add https://github.com/clang-engineer/kh-rental.git rental
 ```
 
 
