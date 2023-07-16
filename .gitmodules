@@ -1,9 +1,12 @@
 [submodule "gateway"]
 	path = gateway
-	url = https://github.com/hhkbdev/jh-gateway.git
+	url = https://github.com/clang-engineer/kh-msa-gateway.git
 [submodule "book"]
 	path = book
-	url = https://github.com/hhkbdev/jh-msa-book.git
+	url = https://github.com/clang-engineer/kh-msa-book.git
 [submodule "rental"]
 	path = rental
-	url = https://github.com/hhkbdev/kh-msa-rental.git
+	url = https://github.com/clang-engineer/kh-msa-rental.git
+[submodule "book-catalog"]
+	path = book-catalog
+	url = https://github.com/clang-engineer/kh-msa-book-catalog.git
