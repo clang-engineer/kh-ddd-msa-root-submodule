@@ -21,7 +21,7 @@ git submodule add https://github.com/clang-engineer/kh-book.git book
 ## book-catalog service
 
 ```sh
-git submodule add https://github.com/clang-engineer/kh-book-catalog.git book
+git submodule add https://github.com/clang-engineer/kh-book-catalog.git book-catalog
 ```
 
 
